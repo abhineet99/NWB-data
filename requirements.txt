@@ -1,0 +1,3 @@
+hdmf==1.2.0 
+pynwb==1.1.0  
+opencv-python==4.2.0
